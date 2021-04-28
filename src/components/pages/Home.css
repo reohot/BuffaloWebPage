@@ -1,0 +1,13 @@
+.Home_container{
+    display: inline;
+    position: relative;
+}
+.home-hero-container{
+    position: relative;
+    height: 400px;
+    background-attachment: cover;
+}
+.try{
+    height: 100vh;
+    position: relative;
+}
